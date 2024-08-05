@@ -88,13 +88,6 @@ The Power BI dashboard visualizes key metrics such as:
 9. Promote Work-Life Balance:
     - Implement flexible working hours and wellness programs.
 
-**Repository Structure**
-- data/
-  - `hr_data.csv`: Original dataset
-  - `cleaned_hr_data.csv`: Cleaned dataset
-
-- dashboard/
-  - `HR_afame.pbix`: Power BI dashboard file
 
 **Conclusion**
 
