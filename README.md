@@ -17,6 +17,7 @@ Remove duplicate rows to ensure unique entries.
 Address NaN values by either dropping or filling them with appropriate values
 
 **Data Description**
+
 The dataset contains information on:
 - Employee demographics (age, gender, etc.)
 - Job roles and departments
@@ -25,6 +26,7 @@ The dataset contains information on:
 - Other relevant attributes
 
 **Dashboard Overview**
+
 The Power BI dashboard visualizes key metrics such as:
 - Overall attrition rates
 - Attrition by department
@@ -95,5 +97,6 @@ The Power BI dashboard visualizes key metrics such as:
   - `HR_afame.pbix`: Power BI dashboard file
 
 **Conclusion**
+
 We have identified key factors influencing employee attrition by analyzing the HR dataset and visualizing the data in a Power BI dashboard. Implementing the recommendations can help reduce turnover rates and improve employee retention, leading to a more stable and productive workforce.
 
