@@ -1,8 +1,9 @@
 # Afame_technology_HR_Attrition_Analysis
-Introduction
+**Introduction**
+
 This project involves a comprehensive data cleansing process for an HR dataset followed by an in-depth analysis of employee attrition within a company. The goal is to prepare the data for effective analysis by removing irrelevant information, handling missing values, eliminating redundancies, and making other necessary adjustments to ensure the dataset is clean, consistent, and ready for further analysis or modeling.
 
-Data Cleansing Steps
+**Data Cleansing Steps**
 1. Remove Unnecessary Columns
 Identify and remove columns that are not useful for analysis.
 
@@ -15,7 +16,7 @@ Remove duplicate rows to ensure unique entries.
 4. Eliminate NaN Values
 Address NaN values by either dropping or filling them with appropriate values
 
-Data Description
+**Data Description**
 The dataset contains information on:
 - Employee demographics (age, gender, etc.)
 - Job roles and departments
@@ -23,7 +24,7 @@ The dataset contains information on:
 - Attrition status and reasons
 - Other relevant attributes
 
-Dashboard Overview
+**Dashboard Overview**
 The Power BI dashboard visualizes key metrics such as:
 - Overall attrition rates
 - Attrition by department
@@ -35,7 +36,7 @@ The Power BI dashboard visualizes key metrics such as:
 - Age range distribution
 - Years of service distribution
 
- Insights
+ **Insights**
 1. Overall Attrition:
    - The company has 1,470 employees.
    - 237 employees have left, resulting in an attrition rate of 16.1%.
@@ -59,7 +60,7 @@ The Power BI dashboard visualizes key metrics such as:
 7. Job Satisfaction and Attrition:
    - High attrition among 'Very Dissatisfied' (66) and 'Dissatisfied' (52) employees.
 
-Recommendations
+**Recommendations**
 1. Target High Attrition Roles:
    - Conduct exit interviews for Healthcare Representatives and Sales Executives.
    - Implement retention programs and career development opportunities.
@@ -85,7 +86,7 @@ Recommendations
 9. Promote Work-Life Balance:
     - Implement flexible working hours and wellness programs.
 
-Repository Structure
+**Repository Structure**
 - data/
   - `hr_data.csv`: Original dataset
   - `cleaned_hr_data.csv`: Cleaned dataset
@@ -93,6 +94,6 @@ Repository Structure
 - dashboard/
   - `HR_afame.pbix`: Power BI dashboard file
 
-Conclusion
+**Conclusion**
 We have identified key factors influencing employee attrition by analyzing the HR dataset and visualizing the data in a Power BI dashboard. Implementing the recommendations can help reduce turnover rates and improve employee retention, leading to a more stable and productive workforce.
 
